@@ -15,3 +15,5 @@ __Fig5_SDR_3cases.m__  generates Figure 5 with selected consumer rate of return 
 __Fig7_climate_IAMs.m__  generates Figure 7.
 
 __Table3_compute.m__  computes values in Table 3 given values of consumption rate `r_c` and tax rate `tau`.
+
+__climate_damages_TS.mat__ contains marginal climate damage estimates from three IAMs (DICE, FUND, PAGE) and the one used in NAS (2017).
